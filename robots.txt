@@ -1,6 +1,7 @@
-User-agent: *  
+User-agent: *
 Disallow: /private/
 Disallow: /path/to/scripts.js
 Disallow: /path/to/styles.css
-Allow: /public/  
+Allow: /public/
+Allow: /ads.txt
 Sitemap: https://www.myflixerztv.site/sitemap.xml
